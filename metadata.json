@@ -1,0 +1,7 @@
+{
+  "name": "Nano Banana 成像器",
+  "description": "一个使用 Nano Banana 模型生成图像的应用程序。用户可以拍摄一张照片，AI 将根据预先配置的参考图像和提示进行编辑，例如，使照片中的人看起来像是拿着一张特定的卡片。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
